@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@hilma/forms": "^0.0.2-beta.23-60",
+    "@hilma/forms": "^0.0.2-beta.23-61",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
