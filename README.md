@@ -2,4 +2,7 @@
 
 Link to the Docs: [here](https://hilma.atlassian.net/wiki/spaces/TD/pages/621576193/Hilma+Forms).
 
-**IMPORTANT:** use `npm install --save @hilma/forms@0.0.2-beta.23-60` instead of regular `npm install`.
+1. Run `git clone https://github.com/ej-shafran/hilma-forms-demo.git`
+2. Run `npm install`
+3. Run `npm start`
+4. Happy `form`ing!
